@@ -2,6 +2,8 @@
 
 RNN (CNN+LSTM) agent trained via PPO to play Super Mario World, self-play/RL only — no hand-coded rules.
 
+![Mario RNN gameplay](out.gif)
+
 ## Setup
 
 1. `python3 -m venv .venv && ./.venv/bin/pip install -r requirements.txt`
